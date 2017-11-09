@@ -7,6 +7,6 @@ moi ca marche ! patrick
 mysql-wildcard.alwaysdata.net
 User : wildcard ;  MDP : web56des
 
-# Pour le projet :
+# Pour les infos du projet sous Android Studio :
 Nom du projet : Nutreative
 Nom de l'activité (vide) : ActivityNutreative
