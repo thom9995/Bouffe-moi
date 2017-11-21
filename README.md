@@ -4,8 +4,9 @@ test si ca marche
 moi ca marche ! patrick
 
 # Infos BDD :
-mysql-wildcard.alwaysdata.net
-User : wildcard ;  MDP : web56des
+addr serveur: mysql-wildcard.alwaysdata.net
+acces serveur: https://phpmyadmin.alwaysdata.com/
+User : wildcard_prenom ; Mdp : redemander a guillaume pour info
 
 # Pour les infos du projet sous Android Studio :
 Nom du projet : Nutreative
